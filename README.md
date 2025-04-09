@@ -18,5 +18,12 @@ The primary dataset used for this Analysis is the  'Used Car Sales synthetic Dat
  3.  Data cleaning and Formatting
 
   ### Explanatory Data Analytics
-  EDA inovles exploring the used car data to answer key questions
+  EDA inovles exploring the used car data to answer key questions. Such as :
+  1. Price by Manufacturer name
+  2. Which car type is sold the most ?
+  3. Whats the sum of Margin by Manufacturer's name?
+  4. How many cars are been sold?
+
+  ### Result/ Findings 
+  
   
